@@ -1,4 +1,4 @@
-#!/home/nirmala/nlp/nltk-nlp-python/bin/python
+#!/home/nirmala/nlp/nltk-nlp-python/bin/python3.9
 # -*- coding: utf-8 -*-
 import re
 import sys
